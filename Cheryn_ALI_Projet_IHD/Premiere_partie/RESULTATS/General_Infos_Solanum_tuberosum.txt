@@ -1,0 +1,20 @@
+#Strain: Solanum_tuberosum
+#Annotations: 
+# A tibble: 6 x 2
+  category  count
+  <chr>     <int>
+1 InterPro  61362
+2 Pfam      28236
+3 KEGG       9414
+4 Process    6600
+5 Component  3418
+6 Function   2812
+
+#Total GO annotations = 12830
+#Total unique GO annotations = 1478
+#Number of terms without data = 36
+#Total proteins = 39021
+#Total proteins annotated by at least 1 GO term = 224
+#Total proteins annotated directly by "Molecular_function" GO term = 200	 directly and implicitly = 205
+#Total proteins annotated directly by "Biological_process" GO term = 205	 directly and implicitly = 209
+#Total proteins annotated directly by "Cellular_component" GO term = 181	 directly and implicitly = 194
